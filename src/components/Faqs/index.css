@@ -1,0 +1,32 @@
+/* Write your code here. */
+
+.app-container {
+  background-color: #f1f5f8;
+  min-height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.faqs-container {
+  background-color: #ffffff;
+  width: 90%;
+  height: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  flex-direction: column;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.title {
+  color: #cb8805;
+  font-size: 42px;
+  font-weight: bold;
+  font-family: "Roboto";
+}
+.faqs-list {
+}
